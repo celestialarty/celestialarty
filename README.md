@@ -44,8 +44,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/celestialarty/celestialarty/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -60,16 +58,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/CelestialArty">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=CelestialArty&count=4&unique=true" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
